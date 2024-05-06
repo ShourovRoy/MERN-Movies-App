@@ -2,3 +2,14 @@ node_modules
 dist
 build
 package-lock.json
+.git
+.vscode
+.dockerignore
+.gitignore
+.env
+config
+build
+node_modules
+docker-compose.yaml
+Dockerfile
+README.md
